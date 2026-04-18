@@ -17,7 +17,7 @@ When you give me a URL or paste article content, I'll convert it into a Neorg-fo
 Published YYYY-MM-DD {http://example.com}[link text]
 
 ** Heading
-Text content...
+Subheadings have a number of asterisks in front matching the depth
 
 - List item
 -- Nested list item
@@ -48,3 +48,4 @@ Definition
 - Format dates as YYYY-MM-DD
 - Convert links to Neorg format: {http://url}[text]
 - Preserve code blocks, quotes, and formatting
+- Put the output into the user's clipboard using the program `pbcopy`

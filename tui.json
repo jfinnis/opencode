@@ -3,5 +3,9 @@
     "theme": "vesper",
     "scroll_acceleration": {
         "enabled": true
+    },
+    "keybinds": {
+        "messages_half_page_up": "ctrl+alt+k",
+        "messages_half_page_down": "ctrl+alt+j"
     }
 }
