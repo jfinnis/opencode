@@ -47,5 +47,6 @@ Definition
 - Extract the title from the article or use provided title
 - Format dates as YYYY-MM-DD
 - Convert links to Neorg format: {http://url}[text]
+- Copy the article verbatim, do not summarize anything
 - Preserve code blocks, quotes, and formatting
 - Put the output into the user's clipboard using the program `pbcopy`
